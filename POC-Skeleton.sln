@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieRank", "MovieRank\MovieRank.csproj", "{A2F56769-D904-41D3-8FC3-F085A851678D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieRank.Libs", "MovieRank.Libs\MovieRank.Libs.csproj", "{6150E14F-8FDB-4996-9892-446F1F3A78F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieRank.Contracts", "MovieRank.Contracts\MovieRank.Contracts.csproj", "{D5187064-6D67-429A-83FE-8C7CE0E8A74C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieRank.Tests", "MovieRank.Tests\MovieRank.Tests.csproj", "{0E023C0C-82E8-4FC4-B3ED-6092C3E82FC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2F56769-D904-41D3-8FC3-F085A851678D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2F56769-D904-41D3-8FC3-F085A851678D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2F56769-D904-41D3-8FC3-F085A851678D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2F56769-D904-41D3-8FC3-F085A851678D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6150E14F-8FDB-4996-9892-446F1F3A78F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6150E14F-8FDB-4996-9892-446F1F3A78F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6150E14F-8FDB-4996-9892-446F1F3A78F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6150E14F-8FDB-4996-9892-446F1F3A78F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5187064-6D67-429A-83FE-8C7CE0E8A74C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5187064-6D67-429A-83FE-8C7CE0E8A74C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5187064-6D67-429A-83FE-8C7CE0E8A74C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5187064-6D67-429A-83FE-8C7CE0E8A74C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E023C0C-82E8-4FC4-B3ED-6092C3E82FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E023C0C-82E8-4FC4-B3ED-6092C3E82FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E023C0C-82E8-4FC4-B3ED-6092C3E82FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E023C0C-82E8-4FC4-B3ED-6092C3E82FC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
